@@ -80,6 +80,9 @@ pip install -r requirements.txt
 python -m streamlit run app/app.py
 ```
 
+![App form](docs/images/app_form.png)
+![Prediction result](docs/images/app_result.png)
+
 ---
 
 ## Project Structure
